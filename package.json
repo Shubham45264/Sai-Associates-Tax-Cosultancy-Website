@@ -1,17 +1,15 @@
 {
-<<<<<<< HEAD
-  "name": "vite_react_shadcn_ts",
+  "name": "sai-associates-gateway",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "build:dev": "vite build --mode development",
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "start": "node index.js"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
@@ -90,18 +88,5 @@
     "typescript-eslint": "^8.38.0",
     "vite": "^5.4.19",
     "vitest": "^3.2.4"
-=======
-  "name": "sai-associates-backend",
-  "version": "1.0.0",
-  "type": "module",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^16.3.1",
-    "express": "^4.18.2",
-    "nodemailer": "^6.9.8"
->>>>>>> fcddf8400dae969b80ff9e00ddf19fcbe208ba0b
   }
 }
