@@ -33,7 +33,7 @@ const Header = () => {
                 Sai Associates
               </span>
               <span className="text-primary-foreground/70 text-xs">
-                Tax Consultancy
+                Tax Consultant
               </span>
             </div>
           </Link>
