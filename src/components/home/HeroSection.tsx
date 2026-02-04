@@ -88,7 +88,7 @@ const HeroSection = () => {
                     <h3 className="font-display text-2xl font-semibold text-foreground mb-2">
                       Sai Associates
                     </h3>
-                    <p className="text-muted-foreground">Tax Consultancy</p>
+                    <p className="text-muted-foreground">Tax Consultant</p>
                   </div>
 
                   <div className="space-y-3">
